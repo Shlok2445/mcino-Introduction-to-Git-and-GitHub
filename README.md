@@ -11,6 +11,7 @@ Input:
    r, annual rate of interest
 Output
    simple interest = (p*t*r)/100
+   # Corrected formula: divide by 100 to convert percentage rate.
 ```
 
 _© 2022 XYZ, Inc._
